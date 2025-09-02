@@ -55,8 +55,8 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 <br/>
 <div>
-<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=ZyphrZero&show_icons=true&locale=cn&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
-<img  align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyphrZero&locale=cn&bg_color=0,73FA79,73FDFF,D783FF&layout=compact" />
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=ZyphrZero&show_icons=true&locale=cn&line_height=21&theme=tokyonight" />
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyphrZero&locale=cn&layout=compact&theme=tokyonight" />
 </div>
 <br/>
 * 🌐 中文 · English
