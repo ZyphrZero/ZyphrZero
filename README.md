@@ -13,21 +13,6 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 </p>
 
-### - My devices
-
-- <img width="17" height="17" src="./img/macos.png" />&nbsp;Mac: 
-  - MacBookAir M2 16G+512G
-- <img width="17" height="17" src="./img/windows.png" />&nbsp;Windows: 
-  - MSIZ690 + i5-12600KF + RTX4080Super 16G + DDR4 3600c14 32G
-- <img width="15" height="15" src="./img/iMac.png" />&nbsp;Monitor: 
-  - ASUS VG27AQL1A 27-inch 2k 170hz
-  - WESCOM IPS 31.5-inch 4k
-- <img width="17" height="17" src="./img/phone.png" />&nbsp;Phone: 
-  - XiaoMi15 Pro 16G+512G
-- <img width="15" height="15" src="./img/projector.png" />&nbsp;Projector: 
-  - JMGO N1S Pro 4K
-  <br/>
-
 ### - Languages and Tools
 
 <p align="center">
