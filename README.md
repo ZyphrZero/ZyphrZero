@@ -13,30 +13,22 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 </p>
 
-### - Languages and Tools
+## - Languages and Tools
 
 <p align="center">
-    <img src="svg/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
-    <img src="svg/css3.svg" alt="css" style="vertical-align:top margin:6px 4px">
     <img src="svg/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
     <img src="svg/go.svg" alt="go" style="vertical-align:top margin:6px 4px">
     <img src="svg/js.svg" alt="javascript" style="vertical-align:top margin:6px 4px">
     <img src="svg/vue.svg" alt="Vue.js" style="vertical-align:top margin:6px 4px">
     <img src="svg/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
     <br/>
-    <img src="svg/nodejs_larger.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
-    <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top margin:6px 4px">
     <img src="svg/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
-    <img src="svg/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
-    <a href="https://leetcode.cn/u/ZyphrZero/">
-    <img src="svg/leetcode.svg" alt="LeetCode" style="vertical-align:top margin:6px 4px">
-    </a>
     <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
 </p>
 <br/>
 <br/>
 
-## 今年汇总 ✨
+## - Statistics this year
 
 <br/>
 <p align="center">
