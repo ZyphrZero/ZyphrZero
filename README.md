@@ -10,23 +10,7 @@
 
 Superstitious new tools and methods,
 Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
-<img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 </p>
-
-## - Languages and Tools
-
-<p align="center">
-    <img src="svg/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
-    <img src="svg/go.svg" alt="go" style="vertical-align:top margin:6px 4px">
-    <img src="svg/js.svg" alt="javascript" style="vertical-align:top margin:6px 4px">
-    <img src="svg/vue.svg" alt="Vue.js" style="vertical-align:top margin:6px 4px">
-    <img src="svg/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
-    <br/>
-    <img src="svg/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
-    <img src="svg/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
-</p>
-<br/>
-<br/>
 
 ## - Statistics this year
 
