@@ -39,10 +39,16 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 ## 今年汇总 ✨
 
 <br/>
-<div>
-<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=ZyphrZero&show_icons=true&locale=cn&line_height=21&theme=tokyonight" />
-<img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyphrZero&locale=cn&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&show_icons=true&locale=cn&line_height=21&theme=tokyonight&cache_seconds=86400&v=1"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-eight-psi-43.vercel.app/api/top-langs?username=ZyphrZero&locale=cn&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=259200&v=1"
+  />
+</p>
 <br/>
 * 🌐 中文 · English
 <br/>
