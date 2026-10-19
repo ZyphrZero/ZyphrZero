@@ -39,15 +39,40 @@ I learn by reading source code, experimenting with agent runtimes, and bringing 
 
 ## 🧰 Toolbox
 
-⌨️ **Languages** &nbsp; `Rust` `Python` `TypeScript / JavaScript` `C#` `Go`
+**Languages**
 
-🧪 **Testing & delivery** &nbsp; `pytest` `Playwright` `Selenium` `Allure` `GitHub Actions` `Docker`
+<p>
+  <a name="toolbox-rust"><img src="./svg/rust.svg" alt="Rust" height="32" align="absmiddle" /></a>
+  <a name="toolbox-python"><img src="./svg/python.svg" alt="Python" height="32" align="absmiddle" /></a>
+  <a name="toolbox-typescript"><img src="./svg/typescript.svg" alt="TypeScript" height="32" align="absmiddle" /></a>
+  <a name="toolbox-js"><img src="./svg/js.svg" alt="JavaScript" height="32" align="absmiddle" /></a>
+  <a name="toolbox-csharp"><img src="./svg/csharp.svg" alt="C#" height="32" align="absmiddle" /></a>
+  <a name="toolbox-go"><img src="./svg/go.svg" alt="Go" height="32" align="absmiddle" /></a>
+</p>
 
-🧩 **Apps & services** &nbsp; `React` `Tauri` `WPF` `FastAPI`
+**Testing & delivery**
+
+<p>
+  <a name="toolbox-pytest"><img src="./svg/pytest.svg" alt="pytest" height="32" align="absmiddle" /></a>
+  <a name="toolbox-playwright"><img src="./svg/playwright.svg" alt="Playwright" height="32" align="absmiddle" /></a>
+  <a name="toolbox-selenium"><img src="./svg/selenium.svg" alt="Selenium" height="32" align="absmiddle" /></a>
+  <a name="toolbox-allure"><img src="./svg/allure.svg" alt="Allure" height="32" align="absmiddle" /></a>
+  <a name="toolbox-github-actions"><img src="./svg/github-actions.svg" alt="GitHub Actions" height="32" align="absmiddle" /></a>
+  <a name="toolbox-docker"><img src="./svg/docker.svg" alt="Docker" height="32" align="absmiddle" /></a>
+</p>
+
+**Apps & services**
+
+<p>
+  <a name="toolbox-react"><img src="./svg/react.svg" alt="React" height="32" align="absmiddle" /></a>
+  <a name="toolbox-tauri"><img src="./svg/tauri.svg" alt="Tauri" height="32" align="absmiddle" /></a>
+  <a name="toolbox-wpf"><img src="./svg/wpf.svg" alt="WPF" height="32" align="absmiddle" /></a>
+  <a name="toolbox-fastapi"><img src="./svg/fastapi.svg" alt="FastAPI" height="32" align="absmiddle" /></a>
+</p>
 
 ## 💬 Let's connect
 
-On LINUX DO, you'll find me as [**长秋**](https://linux.do/u/cassianvale/summary). I share practical notes and discuss AI coding tools, automation, deployment, and desktop development.
+On LINUX DO, you'll find me as [**ChangQiu**](https://linux.do/u/cassianvale/summary). I share practical notes and discuss AI coding tools, automation, deployment, and desktop development.
 
 Always happy to compare notes on agent harnesses, test tooling, and useful developer tools.
 
