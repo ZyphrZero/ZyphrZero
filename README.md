@@ -6,10 +6,9 @@
 </div>
 
 <p align="center">
-<h4>Hello, I'm ZyphrZero, a dedicated quality assurance engineer from China, who has pursued learning independently.</h4>
+<h4>Hi, I'm ZyphrZero — a Test Development Engineer from China, focused on quality engineering and test tooling.</h4>
 
-Superstitious new tools and methods,
-Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
+I'm always up for a new tool and a new method — and open to every opportunity.
 </p>
 
 ## - Statistics this year
