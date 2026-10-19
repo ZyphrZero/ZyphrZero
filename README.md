@@ -4,9 +4,9 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
+  <img src="./assets/coding-cat.gif" alt="Coding cat" width="30" />
   💻 Test Development Engineer · 测试开发工程师
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
+  <img src="./assets/coding-cat.gif" alt="Coding cat" width="30" />
 </h3>
 
 <p align="center">
@@ -14,20 +14,20 @@
 </p>
 
 <p align="center">
-  🤖 AI agents &amp; harnesses &nbsp; · &nbsp; 🧪 Quality engineering &nbsp; · &nbsp; 🛠️ Developer tools
+  <a name="claude-code-icon-22"><img src="./assets/claude-code.svg" alt="Claude Code" width="22" height="22" align="absmiddle" /></a>&nbsp; AI agents &amp; harnesses &nbsp; · &nbsp; 🧪 Quality engineering &nbsp; · &nbsp; 🛠️ Developer tools
 </p>
 
 ---
 
 ## 🌱 A little about me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFweGp5aGV6ejkwY2s0eTI3bTE4eHhsZmgzOTY4MmdmZndtcGVzNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mTs11L9uuyGiI/giphy.gif" alt="Nyan Cat flying with a rainbow trail" width="130" />
+<img align="right" src="./assets/nyan-cat.gif" alt="Nyan Cat flying with a rainbow trail" width="130" />
 
 I'm a **Test Development Engineer** from China, focused on quality engineering, automation, and developer tools. I enjoy understanding how systems work and turning that understanding into practical tools.
 
 My testing background shapes how I build: make behavior observable, handle failures thoughtfully, and verify that the result actually works.
 
-## 🤖 AI agents & harnesses
+## <a name="claude-code-icon-28"><img src="./assets/claude-code.svg" alt="Claude Code" width="28" height="28" align="absmiddle" /></a>&nbsp; AI agents & harnesses
 
 **AI agents and agent harnesses are a long-term research interest of mine.** I keep studying their internals and experimenting with the systems that connect models, tools, context, and people.
 
