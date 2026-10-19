@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">ZyphrZero — Test Development Engineer</title>
+  <desc id="desc">Quality engineering, developer tools, and AI agents and harnesses. A blue and teal network illustrates connected agent systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1724"/><stop offset="1" stop-color="#193D46"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64D8C3"/><stop offset="1" stop-color="#8AB5F4"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FB5C6" opacity=".15"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect x="730" width="470" height="300" fill="url(#dots)"/>
+    <circle cx="1055" cy="150" r="205" fill="none" stroke="#254155" opacity=".65"/>
+    <circle cx="1055" cy="150" r="160" fill="none" stroke="#254155" opacity=".5"/>
+    <path d="M0 298H1200" stroke="url(#accent)" stroke-width="4"/>
+    <rect x="54" y="47" width="30" height="4" rx="2" fill="#64D8C3"/>
+    <text x="98" y="55" fill="#9FB5C6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="2.4">QUALITY ENGINEERING · AI SYSTEMS</text>
+    <text x="52" y="145" fill="#ECF4F7" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">ZyphrZero<tspan fill="#64D8C3">.</tspan></text>
+    <text x="56" y="190" fill="#9FB5C6" font-family="Segoe UI,Arial,sans-serif" font-size="25">Test Development Engineer</text>
+    <text x="56" y="249" fill="#ECF4F7" font-family="Segoe UI,Arial,sans-serif" font-size="23">Building reliable tools. Exploring AI agents.</text>
+    <g fill="none" stroke="#254155" stroke-width="2">
+      <path d="M844 70H923L981 129M836 237H923L981 179M1051 128L1128 70H1174M1052 179L1128 237H1174"/>
+      <path d="M817 150H964M1068 150H1176" stroke-dasharray="5 7"/>
+    </g>
+    <g fill="#122336" stroke="#254155" stroke-width="2">
+      <rect x="791" y="43" width="54" height="54" rx="15"/>
+      <rect x="782" y="210" width="54" height="54" rx="15"/>
+      <rect x="1118" y="43" width="54" height="54" rx="15"/>
+      <rect x="1118" y="210" width="54" height="54" rx="15"/>
+    </g>
+    <g fill="none" stroke="#64D8C3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M807 62L800 70L807 78M828 62L835 70L828 78M821 59L814 81"/>
+      <path d="M799 224H819V246H799ZM803 230H815M803 236H812"/>
+      <path d="M1133 62H1157M1133 70H1157M1133 78H1149"/>
+      <path d="M1133 238L1141 246L1158 228"/>
+    </g>
+    <rect x="956" y="95" width="116" height="116" rx="30" fill="#122336" stroke="url(#accent)" stroke-width="2"/>
+    <rect x="970" y="109" width="88" height="88" rx="21" fill="none" stroke="#254155"/>
+    <path d="M991 133H1036L991 174H1036" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="908" cy="70" r="5" fill="#64D8C3"/>
+    <circle cx="895" cy="237" r="5" fill="#8AB5F4"/>
+    <circle cx="1104" cy="88" r="4" fill="#8AB5F4"/>
+    <circle cx="1104" cy="218" r="4" fill="#64D8C3"/>
+  </g>
+</svg>
+

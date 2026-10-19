@@ -1,58 +1,70 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg" />
+    <img src="./assets/profile-light.svg" alt="ZyphrZero — Test Development Engineer. Building reliable tools. Exploring AI agents." width="100%" />
+  </picture>
+</p>
 
-# Hi, I'm ZyphrZero <img src="./img/cat.gif" alt="Waving cat" width="45" />
+<p align="center">
+  <strong>Quality engineering · Developer tools · AI agents &amp; harnesses</strong><br />
+  <sub>China &nbsp; / &nbsp; UTC+8 &nbsp; / &nbsp; 中文 · English</sub>
+</p>
 
-**Test Development Engineer · Developer Tools · AI Agents & Harnesses**
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; · &nbsp;
+  <a href="#ai-agents--harnesses">Research</a> &nbsp; · &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; · &nbsp;
+  <a href="https://linux.do/u/cassianvale/summary">长秋 · LINUX DO</a>
+</p>
 
-China · UTC+8 · 中文 / English
+## About me
 
-[Agent research](#ai-agents--harnesses) · [LINUX DO](https://linux.do/u/cassianvale/summary)
+I'm a **Test Development Engineer** from China, focused on quality engineering, automation, and developer tools. I enjoy understanding how systems work and turning that understanding into practical tools.
 
-</div>
-
-I'm a Test Development Engineer from China, focused on quality engineering, automation, and developer tools. I enjoy understanding how systems work and turning that understanding into practical tools.
-
-AI agents and **agent harnesses** have been a long-running interest of mine. I keep studying how they work, experimenting with their internals, and integrating them into tools I use. My testing background shapes the questions I ask: what context does an agent need, how should its tools behave, and how do we verify that a task is actually complete?
+My testing background shapes how I build: make behavior observable, handle failures thoughtfully, and verify that the result actually works.
 
 ## AI agents & harnesses
 
-I'm especially interested in the engineering around the model:
+**AI agents and agent harnesses are a long-term research interest of mine.** I keep studying their internals and experimenting with the systems that connect models, tools, context, and people.
 
-- **Execution & orchestration** — agent loops, tool calls, approvals, cancellation, and coordination across tasks.
-- **Context & continuity** — connecting editors and terminals to agents, managing context budgets, and carrying useful state through sessions, memory, and reusable skills.
-- **Reliability & feedback** — event traces, session replay, failure recovery, and tests that make agent behavior easier to inspect and improve.
+<table>
+  <tr>
+    <th width="33%" align="left">Execution &amp; orchestration</th>
+    <th width="34%" align="left">Context &amp; memory</th>
+    <th width="33%" align="left">Reliability &amp; feedback</th>
+  </tr>
+  <tr>
+    <td valign="top">Agent loops, tool calls, approval boundaries, cancellation, and coordination across tasks.</td>
+    <td valign="top">Context assembly, reusable skills, persistent state, and continuity across sessions.</td>
+    <td valign="top">Event traces, session replay, failure recovery, and tests that verify task completion.</td>
+  </tr>
+</table>
 
-I explore these by reading source code, experimenting with agent runtimes, and integrating AI into everyday development workflows.
+I learn by reading source code, experimenting with agent runtimes, and bringing AI into everyday development workflows.
 
-## Tools I work with
+## Toolbox
 
-- **Languages:** Rust · Python · TypeScript / JavaScript · C# · Go
-- **Testing:** pytest · Playwright · Selenium · Allure
-- **Applications:** React · Tauri · WPF · FastAPI
-- **Delivery:** GitHub Actions · Docker
+**Languages** &nbsp; `Rust` `Python` `TypeScript / JavaScript` `C#` `Go`
 
-## Around the community
+**Testing & delivery** &nbsp; `pytest` `Playwright` `Selenium` `Allure` `GitHub Actions` `Docker`
 
-You can find me on **[LINUX DO as Cassianvale / 长秋](https://linux.do/u/cassianvale/summary)**, where I share practical notes and discuss AI coding tools, automation, deployment, and desktop development.
+**Apps & services** &nbsp; `React` `Tauri` `WPF` `FastAPI`
+
+## Community
+
+On LINUX DO, you'll find me as [**长秋**](https://linux.do/u/cassianvale/summary). I share practical notes and discuss AI coding tools, automation, deployment, and desktop development.
 
 Always happy to compare notes on agent harnesses, test tooling, and useful developer tools.
 
-<details>
-<summary><strong>GitHub activity</strong></summary>
-
-<br />
+## GitHub activity
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;show_icons=true&amp;locale=en&amp;line_height=21&amp;theme=tokyonight&amp;cache_seconds=86400&amp;v=1"
-    alt="ZyphrZero's GitHub activity statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-eight-psi-43.vercel.app/api/top-langs?username=ZyphrZero&amp;locale=en&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8&amp;cache_seconds=259200&amp;v=1"
-    alt="Languages used across ZyphrZero's GitHub repositories"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;border_radius=12&amp;title_color=64d8c3&amp;icon_color=8ab5f4&amp;text_color=afc2d0&amp;bg_color=0d1724&amp;cache_seconds=86400" />
+    <img height="180" src="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;border_radius=12&amp;title_color=137d78&amp;icon_color=507dc3&amp;text_color=526e80&amp;bg_color=f3f8fb&amp;cache_seconds=86400" alt="ZyphrZero's GitHub activity statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-psi-43.vercel.app/api/top-langs?username=ZyphrZero&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;title_color=64d8c3&amp;icon_color=8ab5f4&amp;text_color=afc2d0&amp;bg_color=0d1724&amp;cache_seconds=259200" />
+    <img height="180" src="https://github-readme-stats-eight-psi-43.vercel.app/api/top-langs?username=ZyphrZero&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;title_color=137d78&amp;icon_color=507dc3&amp;text_color=526e80&amp;bg_color=f3f8fb&amp;cache_seconds=259200" alt="Languages used across ZyphrZero's GitHub repositories" />
+  </picture>
 </p>
-
-</details>
