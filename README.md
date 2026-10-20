@@ -1,12 +1,14 @@
+<!-- Keep profile GIFs as direct HTTPS URLs; do not replace them with relative asset paths. -->
+
 <h1 align="center">
   Hello there! 👋🏻 I'm ZyphrZero!
-  <img src="./img/cat.gif" alt="Meaow" width="50" />
+  <img src="https://raw.githubusercontent.com/ZyphrZero/ZyphrZero/main/img/cat.gif" alt="Meaow" width="50" />
 </h1>
 
 <h3 align="center">
-  <img src="./assets/coding-cat.gif" alt="Coding cat" width="30" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
   💻 Test Development Engineer · 测试开发工程师
-  <img src="./assets/coding-cat.gif" alt="Coding cat" width="30" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
 </h3>
 
 <p align="center">
@@ -21,7 +23,7 @@
 
 ## 🌱 A little about me
 
-<img align="right" src="./assets/nyan-cat.gif" alt="Nyan Cat flying with a rainbow trail" width="130" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFweGp5aGV6ejkwY2s0eTI3bTE4eHhsZmgzOTY4MmdmZndtcGVzNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mTs11L9uuyGiI/giphy.gif" alt="Nyan Cat flying with a rainbow trail" width="130" />
 
 I'm a **Test Development Engineer** from China, focused on quality engineering, automation, and developer tools. I enjoy understanding how systems work and turning that understanding into practical tools.
 
