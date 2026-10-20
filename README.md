@@ -81,8 +81,8 @@ Always happy to compare notes on agent harnesses, test tooling, and useful devel
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;border_radius=12&amp;title_color=64d8c3&amp;icon_color=8ab5f4&amp;text_color=afc2d0&amp;bg_color=0d1724&amp;cache_seconds=86400" />
-    <img height="180" src="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;border_radius=12&amp;title_color=137d78&amp;icon_color=507dc3&amp;text_color=526e80&amp;bg_color=f3f8fb&amp;cache_seconds=86400" alt="ZyphrZero's GitHub activity statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=default&amp;hide_rank=false&amp;hide_border=true&amp;border_radius=12&amp;title_color=64d8c3&amp;icon_color=8ab5f4&amp;text_color=afc2d0&amp;bg_color=0d1724&amp;cache_seconds=86400" />
+    <img height="180" src="https://github-readme-stats-eight-psi-43.vercel.app/api?username=ZyphrZero&amp;locale=en&amp;show_icons=true&amp;rank_icon=default&amp;hide_rank=false&amp;hide_border=true&amp;border_radius=12&amp;title_color=137d78&amp;icon_color=507dc3&amp;text_color=526e80&amp;bg_color=f3f8fb&amp;cache_seconds=86400" alt="ZyphrZero's GitHub activity statistics" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-psi-43.vercel.app/api/top-langs?username=ZyphrZero&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;title_color=64d8c3&amp;icon_color=8ab5f4&amp;text_color=afc2d0&amp;bg_color=0d1724&amp;cache_seconds=259200" />
