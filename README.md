@@ -5,11 +5,10 @@
   <img src="https://raw.githubusercontent.com/ZyphrZero/ZyphrZero/main/img/cat.gif" alt="Meaow" width="50" />
 </h1>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
-  💻 Test Development Engineer · 测试开发工程师
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding cat" width="30" />
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 ZyphrZero | 💻 Test Development Engineer | 🛸 CN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
+</div>
 
 <p align="center">
   🛸 China &nbsp; · &nbsp; 🕗 UTC+8 &nbsp; · &nbsp; 🌐 中文 / English
