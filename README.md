@@ -91,3 +91,6 @@ Always happy to compare notes on agent harnesses, test tooling, and useful devel
 </p>
 
 <p align="center"><sub>⚡ Stay awesome! ⚡</sub></p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
